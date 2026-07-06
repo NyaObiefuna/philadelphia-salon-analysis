@@ -1,4 +1,4 @@
-# Philly Salon Analysis — What Drives Salon Success in Philadelphia?
+# Philadelphia Salon Analysis — What Drives Salon Success in Philadelphia?
 
 ## Overview
 This project analyzes what drives salon success in Philadelphia using the Yelp Open Dataset 
