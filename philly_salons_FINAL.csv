@@ -1,0 +1,13 @@
+name,address,postal_code,stars,review_count,specialization,price_min,price_max,is_open,market_focus,secondary_focus,data_source
+La Pearl Beauty Emporium Inc,"3857 Lancaster Ave, Philadelphia PA",19104,4.6,128,"Hairstyling, Blowout, detangling, silk press, conditioning treatment, Relaxer, Braids,locks,extensions, Haircut, color, curly hair, smoothing treatment, natural hair styles,",45.0,400.0,1,Textured & Natural,Organic & Wellness,Google
+Salon Pilar,"6354 Germantown Ave, Philadelphia PA,",19144,4.9,393,"Balayage, Bang trim, Blowouts, Curly hair, Glaze, coloring, extensions, hydration treatment, silk press, Haircut, Hairstyling",50.0,450.0,1,Textured & Natural,Multicultural,Google
+Lived in Loft,"1527 South St, Philadelphia PA",19146,5.0,173,"coloring, Hairstyling, Blowouts, Haircut, Hair extensions, highlighting,Updos, Silk press, roller set",65.0,420.0,1,Luxury & Fashion,Multicultural,Google
+46th St Hair Salon LLC,"121 S 4th St, Philadelphia PA",19139,4.8,162,"hair cutting, coloring, locs, natural hair, texturizing, mens styling, detangling, braiding, extensions, texturizer, relaxer, roller set, curly hair",50.0,250.0,1,Textured & Natural,Organic & Wellness,Google
+Salon Vanity,"1701 Walnut St 3rd floor, Philadelphia, PA",19103,4.9,675,"Color, cutting, conditioning treatments, smoothing treatments, Extensions, relaxer, perm, ",40.0,325.0,1,Luxury & Fashion,Mainstream,Google
+Salon Oko,"1943 Callowhill St, Philadelphia, PA ",19130,4.9,783,"cutting, blowout, color, keratin, extensions",25.0,300.0,1,Luxury & Fashion,Mainstream,Google
+Bobby Mack & Co Hair Studio,"1944 South St, Philadelphia, PA",19146,4.7,149,"haircuts, coloring styling, conditioning treatments, extensions, smoothing treatments",15.0,500.0,1,Mainstream,Luxury & Fashion,Yelp
+Salon Bass,"2056 Pine St, Philadelphia, PA",19103,4.9,116,"haircuts, coloring styling, conditioning treatments, keratin treatments",30.0,300.0,1,Mainstream,Luxury & Fashion,Yelp
+Mirror & Mantel,"117 S 22nd St, Philadelphia, PA",19103,4.7,110,"haircuts, formal styling, blowout, coloring, kids haircut, mens services",25.0,360.0,1,Mainstream,Organic & Wellness,Yelp
+Juju salon & Organics,"716 S 4th St, Philadelphia, PA",19147,4.8,121,"haircuts, coloring, syling, smoothing treatments, conditioning treatments",25.0,425.0,1,Organic & Wellness,Multicultural,Yelp
+Perfect Cut Hair Salon,"909 Race St, Philadelphia, PA",19107,4.4,211,"haircuts, blowouts, styling, color, smoothing treatments, conditioning treatments, perm",5.0,200.0,1,Multicultural,Mainstream,Yelp
+Architeqt Salon and Gallery,"265 S 10th St, Philadelphia, PA ",19107,4.9,1175,"Haircuts, coloring, styling, smoothing treatments, updos, extensions, blowouts, conditioning treatment",40.0,400.0,1,Luxury & Fashion,Mainstream,Yelp
